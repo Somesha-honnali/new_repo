@@ -2,3 +2,5 @@ hi new
 this line from branch1
 ===========
 this line edited in git hub
+=======================================
+edted in git master
